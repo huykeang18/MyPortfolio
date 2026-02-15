@@ -3,9 +3,9 @@
 function Navbar(){
     return(
         <>
-            <nav className="navbar flex items-center justify-center">
+            <nav className="navbar container-cus flex items-center justify-between h-22 text-xl bg-sky-200 fixed">
                 <h1>Hazel</h1>
-                <div className="menu">
+                <div className="menu flex gap-12">
                     <h1>Home</h1>
                     <h1>About</h1>
                     <h1>Skills</h1>

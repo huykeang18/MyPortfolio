@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.container-cus {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 7rem;
+}
